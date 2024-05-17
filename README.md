@@ -12,7 +12,7 @@ Hello. Thank you for coming my profile.<br>I'm a web engineer who mainly uses Dj
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikeda0000&theme=github_dark&utcOffset=9)
 
 ## My Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikeda0000&theme=darkhub&rank=-Unknown)](https://github.com/ikeda0000/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikeda0000&theme=darkhub&rank=-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ikeda0000/ikeda0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
