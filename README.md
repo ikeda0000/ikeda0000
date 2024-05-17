@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ikeda0000)
+![](https://komarev.com/ghpvc/?username=ikeda0000) 
+[![Likes](https://badgen.org/img/zenn/chamii/likes?style=flat)](https://zenn.dev/chamii)
+[![Articles](https://badgen.org/img/zenn/chamii/articles?style=flat)](https://zenn.dev/chamii)
 <!--
 **ikeda0000/ikeda0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
