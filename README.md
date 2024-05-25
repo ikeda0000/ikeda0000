@@ -5,11 +5,9 @@
 Hello. Thank you for coming my profile.<br>I'm a web engineer who mainly uses Django, React.
 
 ## My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikeda0000&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikeda0000&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikeda0000&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikeda0000&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikeda0000&theme=github_dark&utcOffset=9)
+[![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## My Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikeda0000&theme=darkhub&rank=-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
