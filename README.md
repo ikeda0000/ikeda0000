@@ -4,6 +4,7 @@
 ## About Me
 Hello. Thank you for coming my profile.<br>I'm a web engineer who mainly uses Django, React.
 
+<!--
 ## My Stats
 [![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ikeda0000/ikeda0000/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -11,7 +12,7 @@ Hello. Thank you for coming my profile.<br>I'm a web engineer who mainly uses Dj
 
 ## My Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikeda0000&theme=darkhub&rank=-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
+
 **ikeda0000/ikeda0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
