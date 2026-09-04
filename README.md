@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ikeda0000) 
-[![Likes](https://badgen.org/img/zenn/chamii/likes?style=flat)](https://zenn.dev/chamii)
-[![Articles](https://badgen.org/img/zenn/chamii/articles?style=flat)](https://zenn.dev/chamii)
 ## About Me
 Hello. Thank you for coming my profile.<br>I'm a web engineer who mainly uses Django, React.
 
